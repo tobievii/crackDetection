@@ -9,3 +9,13 @@ When compiling the .cpp file please use:
 ```
 g++ *** -o *** $(pkg-config --cflags --libs opencv) -I/usr/local/include -L/opt/vc/lib -lraspicam -lmmal -lmmal_core -lmmal_util -lraspicam_cv
 ```
+
+# Usage example
+
+## Original image
+
+![alt text](https://raw.githubusercontent.com/kevinkuhl/crackDetection/img.png)
+
+## Final image
+
+![alt text](https://raw.githubusercontent.com/kevinkuhl/crackDetection/img.png)
