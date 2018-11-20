@@ -19,3 +19,7 @@ g++ *** -o *** $(pkg-config --cflags --libs opencv) -I/usr/local/include -L/opt/
 ## Final image
 
 ![Final image](final.jpg)
+
+## Conclusion
+
+After using the code, the image matrix will have only two possible values, according to the parameters set on the code. By running through this matrix, you can verify if some point is actually a crack on the surface or not.
