@@ -14,8 +14,8 @@ g++ *** -o *** $(pkg-config --cflags --libs opencv) -I/usr/local/include -L/opt/
 
 ## Original image
 
-![Original image](https://raw.githubusercontent.com/kevinkuhl/crackDetection/original.jpg)
+![Original image](original.jpg)
 
 ## Final image
 
-![Final image](https://raw.githubusercontent.com/kevinkuhl/crackDetection/final.jpg)
+![Final image](final.jpg)
